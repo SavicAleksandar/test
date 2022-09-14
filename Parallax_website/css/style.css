@@ -1,0 +1,79 @@
+body, html {
+    font-family: Arial, Helvetica, sans-serif; 
+    height: 100%;
+    color: white;
+}
+
+.parallax {
+    background: linear-gradient(to bottom, #5722ad, transparent);
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding: 0;
+    margin: 0;
+}
+
+.navigation {
+    overflow: hidden;
+}
+
+.navigation ul {
+    list-style: none;
+}
+
+.navigation a {
+    float: left;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* .navigation li {
+    display: inline;
+    padding: 5px 10px;
+} */
+
+.navigation a:hover {
+    background-color: #fff;
+    color: #080113;
+}
+
+.jumbo {
+    padding: 100px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.jumbo a {
+    text-decoration: none;
+    color: white;
+}
+
+.blur-section {
+    background-color: #080113;
+    padding: 20px;
+    margin: 0px;
+}
+
+.section {
+    background-color: #080113;
+    padding: 0;
+    margin: 0;
+}
+
+.section h1 {
+    text-align: left;
+    padding: 20px;
+    margin: 0;
+}
+
+.section p {
+    padding: 20px;
+}

@@ -1,0 +1,13 @@
+Git add / add .
+Git commit
+Git commit -m "komentar npr.: dodan nov feature"
+Git push
+Git status
+Git log
+Git pull
+Git push -u origin master
+Git checkout new_branch
+Git merge master
+Git checkout -b new_branch
+
+Git remote origin git@github.com:username/repo_name
